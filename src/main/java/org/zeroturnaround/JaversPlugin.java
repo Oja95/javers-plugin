@@ -1,4 +1,4 @@
-package com.example.plugin;
+package org.zeroturnaround;
 
 import org.zeroturnaround.javarebel.ClassResourceSource;
 import org.zeroturnaround.javarebel.Integration;

@@ -46,7 +46,7 @@
         <configuration>
           <archive>
             <manifestEntries>
-              <JavaRebel-Plugin>com.example.plugin.JaversPlugin</JavaRebel-Plugin>
+              <JavaRebel-Plugin>org.zeroturnaround.JaversPlugin</JavaRebel-Plugin>
             </manifestEntries>
           </archive>
         </configuration>

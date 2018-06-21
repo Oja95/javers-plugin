@@ -1,4 +1,4 @@
-package com.example.plugin;
+package org.zeroturnaround;
 
 import org.zeroturnaround.bundled.javassist.CannotCompileException;
 import org.zeroturnaround.bundled.javassist.ClassPool;
